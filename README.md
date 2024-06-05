@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first git repository. 
-author - divakar gautam
+this is my first git repository.
+<br>
+author = divakar gautam
